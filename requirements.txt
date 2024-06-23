@@ -1,0 +1,9 @@
+opencv-python
+pafy
+numpy
+tensorflow
+matplotlib
+moviepy
+scikit-learn
+keras
+youtube-dl
